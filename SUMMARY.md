@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Download & Installation](chapter1.md)
+* [Supported Devices](supported-devices.md)
+

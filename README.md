@@ -1,3 +1,14 @@
-# My Awesome Book
+# The farmerJoe App
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+farmerJoe is a documentation and communication app specially created for farmers. The main features of the farmerJoe include, but are not limited to:
+
+* Management of multiple farms
+* Fields & crop overview
+* Age counter for sown crops
+* Documentation with free form text & images
+* Countdown/wait time for pesticide application
+* Fertiliser application
+* Farm workers can directly input data in the app 
+
+
+

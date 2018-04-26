@@ -1,6 +1,6 @@
 # Managing your workers
 
-Unless you are working alone, chances are that you'll employ workers on your farm \(no matter if they are family members, or external workers\). You'll have the most benefit from farmerJoe if you add those workers to your farm. Once added those workers will be able to comment on the fields just like you do. This way you'll always know what was done on a field and will have a better overview of what has been done and what needs to be done in the farm.
+Unless you are working alone, chances are that you'll employ workers on your farm \(no matter if they are family members, or external workers\). You'll have the most benefit from farmerJoe if you add those workers to your farm. Once added those workers will be able to comment on the fields just like you do. This way you'll always know what was done on a field and will have a better overview at what to do next.
 
 ## Worker permissions
 

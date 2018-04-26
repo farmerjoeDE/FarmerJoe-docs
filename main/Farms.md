@@ -1,6 +1,6 @@
 # Farms
 
-When launching the app for the first time you will be greeted by the Farms screen. This is where your journey with farmerJoe starts. From here you can crate new companies or view the data of existing ones.
+When launching the app for the first time you will be greeted by the Farms screen. This is where your journey with farmerJoe starts. From here you can crate new farms or view the data of existing ones.
 
 ![The farm&apos;s screen with no farms](/assets/Simulator Screen Shot - iPhone 6s - 2018-04-02 at 08.12.58.png)
 

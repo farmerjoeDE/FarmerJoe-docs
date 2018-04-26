@@ -10,4 +10,7 @@
   * [Create an account](Account/create-an-account.md)
 * [Farm](/farm/README.md)
   * [Managing your farm](/farm/Manage_farm.md)
+  * [Managing your workers](/farm/Manage_farm.md)
+
+
 

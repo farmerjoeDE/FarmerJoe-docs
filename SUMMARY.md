@@ -8,7 +8,6 @@
 * [Account & Profile](/Account/README.md)
   * [Change the App's language](/Account/Change Language.md)
   * [Create an account](Account/create-an-account.md)
-* [Managing your farm](/main/README.md)
-
-
+* [Farm](/farm/README.md)
+  * [Managing your farm](/farm/Manage_farm.md)
 

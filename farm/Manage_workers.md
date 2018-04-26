@@ -28,7 +28,7 @@ The advisor has basically the same rights as a worker above. An advisor would ge
 
 ## Managing users
 
-### Creating new users
+### Adding new employees to the farm
 _**You need to be an admin in the farm in order to create new users.**_
 To create a new user open your farm, then on the bottom of the screen click on Users. Now on top right you have a plus sign. Click on it. You'll be presented with a form for inputing an name and email. Make sure that you input a correct email address. The worker will be able to join your farm only if his registration in farmerjoe matches this address. 
 

@@ -1,4 +1,4 @@
-# Supported devices
+# Supported Devices
 
 ## iPhone
 
@@ -11,6 +11,4 @@ We do not explicitly restrict the use of jailbroken or unlocked devices, but bec
 We support all Android phones that meet the following requirements:
 
 * Your Android phone is running **Android 4.4 or later**
-
-
 

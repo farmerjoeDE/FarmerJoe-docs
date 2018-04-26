@@ -1,4 +1,4 @@
-# The farmerJoe App
+# Introduction
 
 farmerJoe is a documentation and communication app specially created for farmers. The main features of the farmerJoe include, but are not limited to:
 
@@ -9,6 +9,4 @@ farmerJoe is a documentation and communication app specially created for farmers
 * Countdown/wait time for pesticide application
 * Fertiliser application
 * Farm workers can directly input data in the app 
-
-
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Einleitung](README.md)
 * [Download & Installation](download-and-installation/README.md)
   * [Supported Devices](download-and-installation/supported-devices.md)
   * [Installing FarmerJoe](download-and-installation/installing-farmerjoe.md)

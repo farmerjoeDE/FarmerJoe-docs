@@ -1,12 +1,14 @@
-# Introduction
+# Einleitung
 
-farmerJoe is a documentation and communication app specially created for farmers. The main features of the farmerJoe include, but are not limited to:
+In der komplexen landwirtschaftlichen Produktion jederzeit den Gesamtüberblick zu behalten und letztlich die richtigen Entscheidungen zu treffen, stellt Landwirte vor eine große Herausforderung. farmer**Joe** ist eine kostenlose\* App, die Ihnen dabei hilft, alle landwirtschaftlichen Tätigkeiten direkt am Feld übersichtlich zu dokumentieren. Mit farmer**Joe** erhalten Sie effektive Unterstützung sowohl bei der Erfassung betriebsbezogener Daten als auch bei der Planung, Verwaltung und Bewertung entsprechender Maßnahmen.  
+farmer**Joe** macht Ihre Agrardokumentation schneller, einfacher und professioneller. So haben Sie mehr Zeit, sich auf das Wesentliche zu konzentrieren: die Optimierung Ihrer Produktion.  
 
-* Management of multiple farms
-* Fields & crop overview
-* Age counter for sown crops
-* Documentation with free form text & images
-* Countdown/wait time for pesticide application
-* Fertiliser application
-* Farm workers can directly input data in the app 
+
+* Mehrere Betriebe verwalten
+* Übersicht von den Feldern und Kulturen \(aktive, geplante\) in jedem betrieb
+* Karte für schnelle Orientierung
+* Frei dokumentieren, auch mit Bildern
+* Düngen
+* Wartezeiten
+* Mitarbeiter
 
